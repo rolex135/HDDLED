@@ -58,6 +58,7 @@ namespace HDDLED
         }
         #endregion
 
+        //Removes icon from tray and exits program
         #region Event handlers
         private void QuitMenuItem_Click(object sender, EventArgs e)
         {
